@@ -12,6 +12,7 @@ class MainPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Get.locale = Localizations.localeOf(Get.context) ?? Locale('en', 'US');
     return Scaffold(
         drawer: Drawer(
             child: Column(

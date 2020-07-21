@@ -23,6 +23,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
   dio: ^3.0.9
   get: ^3.3.0
   path_provider: ^1.6.11
