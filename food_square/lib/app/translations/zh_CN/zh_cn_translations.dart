@@ -1,0 +1,16 @@
+final Map<String, String> zhCN = {
+  "home": "首页",
+  "favor": "收藏",
+  "minutes": "分钟",
+  "simple": "简单",
+  "medium": "中等",
+  "hard": "困难",
+  "Let's Go !!!": "开始动手吧!!!",
+  "collect": "未收藏",
+  "collected": "已收藏",
+  "filter": "过滤",
+  "meal": "进餐",
+  "nothing": "空空如也",
+  "switch_language": "切换语言",
+  "switch_theme": "切换主题",
+};
